@@ -2,4 +2,4 @@
 
 - 🚀 I’m currently learning Frontend Development
 
-- 📫 Discord: Dobix #0001
+- 📫 Discord: @dobix
